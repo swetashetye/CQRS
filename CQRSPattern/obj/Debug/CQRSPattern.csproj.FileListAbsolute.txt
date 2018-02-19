@@ -1,0 +1,6 @@
+E:\rnd\CQRSPattern\CQRSPattern\obj\Debug\CQRSPattern.csprojResolveAssemblyReference.cache
+E:\rnd\CQRSPattern\CQRSPattern\bin\Debug\CQRSPattern.exe.config
+E:\rnd\CQRSPattern\CQRSPattern\bin\Debug\CQRSPattern.exe
+E:\rnd\CQRSPattern\CQRSPattern\bin\Debug\CQRSPattern.pdb
+E:\rnd\CQRSPattern\CQRSPattern\obj\Debug\CQRSPattern.exe
+E:\rnd\CQRSPattern\CQRSPattern\obj\Debug\CQRSPattern.pdb
